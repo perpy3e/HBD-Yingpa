@@ -489,7 +489,7 @@ body {
 
 .bottom-message p {
     font-size: clamp(.78rem, 2.5vw, .9rem);
-    color: var(--platinum);
+    color: white;
     font-weight: 300;
     line-height: 1.75;
 }
